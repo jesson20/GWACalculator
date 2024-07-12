@@ -50,8 +50,8 @@ function App() {
 
   return (
     <div>
-      <div className="container">
-        <h2 className="title">GWA Calculator</h2>
+      <div className="max-h-screen bg-white p-10">
+        <h2 className="text-2xl">GWA Calculator</h2>
         <div className="GWAApp">
           <div className='column'>
             <h2>Units</h2>
